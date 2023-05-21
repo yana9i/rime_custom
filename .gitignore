@@ -1,4 +1,4 @@
 build
-luna_pinyin.userdb
+*.userdb
 installation.yaml
 user.yaml

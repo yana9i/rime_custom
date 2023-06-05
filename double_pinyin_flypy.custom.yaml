@@ -11,3 +11,5 @@ patch:
     tips: all
     inherit_comment: false
   __include: easy_en:/patch
+  "punctuator/import_preset": symbols
+  "recognizer/patterns/punct": "^/([A-Z|a-z]*|[0-9]|10)$"

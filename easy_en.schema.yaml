@@ -13,7 +13,7 @@ schema:
     Easy English
 
 easy_en:
-  split_sentence: true
+  split_sentence: false
   use_wordninja_rs_lua_module: false
   wordninja_rs_lua_module_path: "/usr/lib/lua/5.4/wordninja.so"
   use_wordninja_rs: false
